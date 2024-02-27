@@ -9,6 +9,7 @@ function ScreenSaverIndexPage() {
         <li><Link href="/exercises/01-screensaver/red">red</Link></li>
         <li><Link href="/exercises/01-screensaver/purple">purple</Link></li>
         <li><Link href="/exercises/01-screensaver/yellow">yellow</Link></li>
+        <li><Link href="/exercises/01-screensaver/brown">brown</Link></li>
       </ul>
     </main>
   );
